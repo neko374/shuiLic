@@ -1,0 +1,21 @@
+.chartButton{
+    cursor:pointer;
+    background-color:rgb(78,177,214);
+    color:white;
+    height:40px;
+    margin-top:-3px;
+    margin-left:10px;
+}
+
+.user-management-diaCr .el-dialog__title{
+    color:rgb(76, 177, 214);
+  }
+  @media screen and (min-width: 701px){
+    .user-management-diaCr {
+      width: 570px;
+    }
+    .user-management-diaCr .el-dialog__body {
+      padding: 3% 10%;
+  }
+  }
+  

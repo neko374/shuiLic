@@ -1,0 +1,66 @@
+
+// 电脑模式
+@media screen and (min-width: 701px){
+    .el-dialog {
+        margin-top: 1% !important;
+    }
+    .el-dialog__body {
+        padding: 3% 5%;
+    }
+    // .el-form--label-left {
+    //     margin-left: 0 !important;
+    //     width: 100% !important;
+    // }
+    // .el-form-item__label {
+    //     padding: 0 2% 0 0;
+    //     width: 40% !important;
+    //     text-align: right !important;
+    // }
+    // .el-form-item {
+    //     margin-bottom: 15px;
+    // }
+    // .el-form-item__content {
+    //     margin-left: 40% !important;
+    // }
+    .el-input,.el-textarea {
+        width: 100%;
+    }
+}
+
+// 手机模式，全屏dialog
+@media screen and (max-width: 700px){
+    .el-dialog {
+        margin-top: 0 !important;
+        width: 100% !important;
+    }
+    .el-dialog__body {
+        padding: 2% 2%;
+    }
+    // .el-form--label-left {
+    //     margin-left: 0 !important;
+    //     width: 100% !important;
+    // }
+    // .el-form-item__label {
+    //     padding: 0 5% 0 0;
+    //     width: 30% !important;
+    //     text-align: right !important;
+    // }
+    // .el-form-item {
+    //     margin-bottom: 15px;
+    // }
+    // .el-form-item__content {
+    //     margin-left: 30% !important;
+    // }
+    .el-input,.el-textarea {
+        width: 100%;
+    }
+}
+
+// 小手机模式，上移编辑框 upload 图标
+@media screen and (max-width: 470px){
+    .editor-custom-btn-container {
+        position: absolute !important;
+        right: -2px !important;
+        top: -28px !important;
+    }
+}

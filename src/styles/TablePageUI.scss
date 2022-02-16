@@ -1,0 +1,155 @@
+// 表格页面头部表单样式
+.TablePageLastFormItem {
+    margin:0px 0px 0px 0px;
+}
+.TablePageButtonSearch {
+    margin:0px 5px 10px 0px;
+    color:white;
+    background-color:rgb(83, 204, 197);
+}
+.TablePageButtonAdd {
+    margin:0px 5px 10px 0px!important;
+    color:white;
+    background-color:rgb(76, 177, 214);
+}
+// 表格表头
+.el-table tr th {
+    padding-top: 1px;
+    padding-bottom: 0px;
+    font-weight: normal;
+    background-color: rgba(146, 128, 226, 0.2);
+}
+// 表格斑马纹
+.el-table tbody tr:nth-of-type(even) {
+
+    background-color: rgba(146, 128, 226,0.15);
+}
+// 表格内按钮颜色
+.el-table .el-button {
+    padding: 3px 10px;
+}
+.TableButtonEdit {
+    color:white;
+    background-color:rgb(76, 177, 214);
+}
+.TableButtonSubmit {
+    color:white;
+    background-color:rgb(83, 204, 197);
+}
+.TableButtonDelete {
+    color:white;
+    background-color:rgb(146, 128, 226);
+}
+.TableButtonEvaluate {
+    color:white;
+    background-color:rgb(244, 178, 70);
+}
+.TableButtonState {
+    color:white;
+    background-color:rgb(244, 178, 70);
+}
+.TableButtonDownload {
+    color:white;
+    background-color:rgb(83, 204, 197);
+}
+.TableButtonView {
+    color:white;
+    background-color:rgb(76, 177, 214);
+}
+.TableButtonCompleted {
+    color:white;
+    background-color:rgb(76, 177, 214);
+}
+.TableButtonAccept {
+    color:white;
+    background-color:rgb(146, 128, 226);
+}
+.TableButtonToJunHao {
+    color:white;
+    background-color:rgb(244, 178, 70);
+}
+.TableButtonDetail {
+    color:white;
+    background-color:rgb(244, 178, 70);
+}
+.TableButtonConfirmation {
+    color:white;
+    background-color:rgb(83, 204, 197);
+}
+.TableButtonProcess {
+    color:white;
+    background-color:rgb(76, 177, 214);
+}
+.TableButtonWaitingForAcceptance {
+    color:white;
+    background-color:rgb(217, 88, 80);
+}
+.TableButtonWaitingForProcessing {
+    color:white;
+    background-color:rgb(34, 195, 170);
+}
+.TableButtonProcessing {
+    color:white;
+    background-color:rgb(63, 177, 227);
+}
+.TableButtonWaitingForConfirmation {
+    color:white;
+    background-color:rgb(242, 214, 67);
+}
+.TableButtonWaitingForEvaluation {
+    color:white;
+    background-color: rgb(255, 185, 128);
+}
+.TableButtonAlreadyEvaluated {
+    color:white;
+    background-color: rgb(184, 210, 199);
+}
+.TableButtonWithdrawn {
+}
+// 表格内标签颜色
+.el-table .el-tag {
+    padding: 1px 10px 2px 10px;
+}
+.TableLabelEdit {
+
+}
+.TableLabelSubmitted {
+
+}
+.TableLabelAccepted {
+
+}
+.TableLabelHasDone {
+
+}
+.TableLabelUnavailable {
+    
+}
+.TableLabelOnline {
+    color:rgb(83, 204, 197);
+    background-color:rgba(146, 128, 226,0.1);
+}
+.TableLabelOffline {
+    color:rgb(146, 128, 226);
+    background-color:rgba(146, 128, 226,0.1);
+}
+.TableLabelAdmin {
+
+}
+.TableLabelUser {
+    
+}
+.TableLabelAgent {
+    
+}
+.TableLabelInstaller {
+    
+}
+// 表格内输入框
+.el-table .el-input__inner {
+    height: 20px;
+}
+// 分页
+.TablePagination {
+    margin-top: 15px; 
+}

@@ -1,0 +1,569 @@
+{
+  "id": "1988096",
+  "name": "佛山项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1767071",
+      "name": "实时数据",
+      "font_class": "shishishuju",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "3389376",
+      "name": "数据显示",
+      "font_class": "datadisplay",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "13251644",
+      "name": "历史数据",
+      "font_class": "lishi",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "6943648",
+      "name": "汇流箱",
+      "font_class": "huiliuxiang",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "11830514",
+      "name": "插座",
+      "font_class": "chazuo",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "13905322",
+      "name": "灯",
+      "font_class": "deng1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "13905320",
+      "name": "编组 13",
+      "font_class": "bianzu1",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "6205121",
+      "name": "w0103005UPS供电装置",
+      "font_class": "wUPSgongdianzhuangzhi",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "10249727",
+      "name": "计量柜",
+      "font_class": "jilianggui",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "12089793",
+      "name": "摄像头",
+      "font_class": "shexiangtou",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "16116547",
+      "name": "计量柜",
+      "font_class": "jilianggui1",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "6161823",
+      "name": "矩形",
+      "font_class": "juxing1",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "16341282",
+      "name": "矩形",
+      "font_class": "juxing2",
+      "unicode": "eb29",
+      "unicode_decimal": 60201
+    },
+    {
+      "icon_id": "1761467",
+      "name": "功率因数",
+      "font_class": "gongshuaiyinshu-",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "2524681",
+      "name": "Soc low alarm",
+      "font_class": "Soclowalarm",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "2540259",
+      "name": "累计充电量",
+      "font_class": "leijichongdianliang",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "2954674",
+      "name": "隔离变压器简化",
+      "font_class": "x-GLB",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "3372095",
+      "name": "信息管理",
+      "font_class": "xinxiguanli",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "3385013",
+      "name": "拓扑图",
+      "font_class": "tuoputu",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "3544667",
+      "name": "系统控制",
+      "font_class": "xitongkongzhi",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "3633114",
+      "name": "发电量",
+      "font_class": "fadianliang",
+      "unicode": "e79e",
+      "unicode_decimal": 59294
+    },
+    {
+      "icon_id": "3636516",
+      "name": "蓄电池",
+      "font_class": "xudianchi-copy",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "3950031",
+      "name": "运行参数",
+      "font_class": "yunhangcanshu",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4168850",
+      "name": "状态",
+      "font_class": "zhuangtai",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "4580985",
+      "name": "电压",
+      "font_class": "dianya1",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "4747723",
+      "name": "功率",
+      "font_class": "icon-power-power",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4755456",
+      "name": "当前状态",
+      "font_class": "-",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "4803177",
+      "name": "循环",
+      "font_class": "xunhuan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "4885945",
+      "name": "控制策略-导航",
+      "font_class": "kongzhicelve-daohang",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "4968312",
+      "name": "交换机1",
+      "font_class": "jiaohuanji",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "4989283",
+      "name": "无线网",
+      "font_class": "shi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "5008514",
+      "name": "无线 WIFI",
+      "font_class": "wuxianWIFI",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "5362864",
+      "name": "光伏",
+      "font_class": "guangfu",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5501555",
+      "name": "首页-选中",
+      "font_class": "index",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "6078050",
+      "name": "有功功率",
+      "font_class": "yougonggongshuai",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "6834864",
+      "name": "操作-记录",
+      "font_class": "cz-jl",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "6856143",
+      "name": "频率",
+      "font_class": "pinshuai",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6861310",
+      "name": "点",
+      "font_class": "dian_blue",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "7035303",
+      "name": "储能系统",
+      "font_class": "chunengxitong",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "7097448",
+      "name": "水浸传感器icon",
+      "font_class": "shuijinchuanganqiicon",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7309271",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "7404299",
+      "name": "编号",
+      "font_class": "bianhao",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "7439427",
+      "name": "温度",
+      "font_class": "temperate",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7489628",
+      "name": "逆变器",
+      "font_class": "nibianqi1",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "7742952",
+      "name": "光伏发电厂",
+      "font_class": "guangfufadianchang",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "8047102",
+      "name": "升压站",
+      "font_class": "shengyazhan",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "8090985",
+      "name": "锂电池",
+      "font_class": "lidianchi",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "8453210",
+      "name": "故障",
+      "font_class": "guzhang",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "8557530",
+      "name": "装机容量",
+      "font_class": "zhuangjirongliang",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "8865782",
+      "name": "电流",
+      "font_class": "dianliu1",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "8934771",
+      "name": "系统状态",
+      "font_class": "xitongzhuangtai",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "9092128",
+      "name": "服务器",
+      "font_class": "server",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "10033853",
+      "name": "运行模式",
+      "font_class": "yunhangmoshi",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "10033878",
+      "name": "可放电量",
+      "font_class": "kefangdianliang",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "10390196",
+      "name": "单体温度",
+      "font_class": "dantiwendu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10390200",
+      "name": "单体电流",
+      "font_class": "dantidianliu",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "10390202",
+      "name": "单体电压",
+      "font_class": "dantidianya",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "10539858",
+      "name": "系统控制",
+      "font_class": "xitongkongzhi1",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "10547677",
+      "name": "BMS",
+      "font_class": "wuliji",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "10563447",
+      "name": "总功率",
+      "font_class": "zonggongshuai",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "10569671",
+      "name": "云服务器",
+      "font_class": "yunfuwuqi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "10807153",
+      "name": "运行监测",
+      "font_class": "yunhangjiance",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "10966320",
+      "name": "SOH",
+      "font_class": "SOH",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "11356447",
+      "name": "主接线图",
+      "font_class": "zhujiexiantu",
+      "unicode": "e796",
+      "unicode_decimal": 59286
+    },
+    {
+      "icon_id": "11553793",
+      "name": "机组启停控制",
+      "font_class": "icon_jizuqitingkongzhi",
+      "unicode": "efb0",
+      "unicode_decimal": 61360
+    },
+    {
+      "icon_id": "11853773",
+      "name": "能源管控_储能管控",
+      "font_class": "chunengguankong",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
+      "icon_id": "11951545",
+      "name": "MQTT功能",
+      "font_class": "MQTTgongneng",
+      "unicode": "e7cc",
+      "unicode_decimal": 59340
+    },
+    {
+      "icon_id": "12072424",
+      "name": "储能单元",
+      "font_class": "chunengdanyuan",
+      "unicode": "e7bf",
+      "unicode_decimal": 59327
+    },
+    {
+      "icon_id": "12303511",
+      "name": "自动模式",
+      "font_class": "zidongmoshi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12538949",
+      "name": "通讯管理机备份",
+      "font_class": "tongxunguanlijibeifen",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "12666660",
+      "name": "空调",
+      "font_class": "czIcon-airConditioner",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "12718310",
+      "name": "pcs",
+      "font_class": "pcs",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13078794",
+      "name": "逆变器",
+      "font_class": "nibianqi",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "13333883",
+      "name": "控制器-产品_复制",
+      "font_class": "kongzhiqi-chanpin_fuzhi",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "13718152",
+      "name": "温湿度传感器",
+      "font_class": "wenshiduchuanganqi",
+      "unicode": "e80c",
+      "unicode_decimal": 59404
+    },
+    {
+      "icon_id": "13905318",
+      "name": "储能",
+      "font_class": "chuneng",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "14217246",
+      "name": "储能",
+      "font_class": "chuneng-copy",
+      "unicode": "efb1",
+      "unicode_decimal": 61361
+    },
+    {
+      "icon_id": "14217255",
+      "name": "控制器-产品_复制",
+      "font_class": "kongzhiqi-chanpin_fuzhi-copy",
+      "unicode": "efb2",
+      "unicode_decimal": 61362
+    },
+    {
+      "icon_id": "14335113",
+      "name": "水浸传感器icon",
+      "font_class": "shuijinchuanganqiicon-copy",
+      "unicode": "efb3",
+      "unicode_decimal": 61363
+    },
+    {
+      "icon_id": "14335115",
+      "name": "空调",
+      "font_class": "czIcon-airConditioner-copy",
+      "unicode": "efb4",
+      "unicode_decimal": 61364
+    }
+  ]
+}
